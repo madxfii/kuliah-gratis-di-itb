@@ -1,0 +1,70 @@
+# Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+## You are free to:
+
+**Share** — copy and redistribute the material in any medium or format
+- You may redistribute this content freely for any purpose, including educational and commercial uses.
+
+**Adapt** — remix, transform, and build upon the material
+- You may modify, adapt, and create derivative works based on this material.
+
+for any purpose, even commercially.
+
+## Under the following terms:
+
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- When sharing or adapting this work, provide clear attribution to the original authors and contributors.
+
+## No additional restrictions
+
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+## Attribution Examples
+
+### When using the material:
+
+**Recommended format:**
+```
+Kurikulum Teknik Informatika ITB
+Source: https://github.com/ahmadsafii/kurikulum-itb
+License: CC BY 4.0
+Contributor(s): [list contributors if modified]
+```
+
+**In academic citations:**
+```
+@misc{kurikulum-itb,
+  title={Kurikulum Teknik Informatika ITB - Materi Pembelajaran},
+  author={Safii, Ahmad and contributors},
+  year={2026},
+  howpublished={\url{https://github.com/ahmadsafii/kurikulum-itb}},
+  license={CC BY 4.0}
+}
+```
+
+---
+
+## Important Notes
+
+- **No warranty** — This work is provided "as is" without warranties of any kind, express or implied.
+- **No liability** — The licensor will not be liable for any damages arising from the use of this material.
+- **Trademark rights** — This license does not grant permission to use the trade names, trademarks, service marks, or product names of the licensor.
+
+---
+
+## Full Legal Text
+
+For the full CC BY 4.0 legal text, please visit:
+http://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+
+**Project**: Kurikulum Teknik Informatika ITB
+**License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+**Effective Date**: August 31, 2026
