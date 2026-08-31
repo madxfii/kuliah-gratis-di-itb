@@ -1,0 +1,301 @@
+================================================================================
+                    STRUKTUR FOLDER KURIKULUM ITB
+================================================================================
+
+📁 LOKASI: /home/ahmad/Projects/kurikulum-itb/
+
+================================================================================
+RINGKASAN STRUKTUR
+================================================================================
+
+kurikulum-itb/
+│
+├── README.md                          (Panduan penggunaan struktur)
+├── DAFTAR_MATA_KULIAH.md             (Daftar lengkap 70 mata kuliah)
+├── STRUKTUR_FOLDER.txt               (File ini)
+│
+└── [70 FOLDER MATA KULIAH]
+    │
+    ├── Mata Kuliah Wajib (44 folder)
+    │   ├── WI1102-berpikir-komputasional/
+    │   ├── MA1101-matematika-i/
+    │   ├── IF1210-algoritma-dan-pemrograman-1/
+    │   ├── IF2130-sistem-operasi/
+    │   ├── IF3170-inteligensi-artifisial/
+    │   └── ... (40 folder lainnya)
+    │
+    └── Mata Kuliah Elektif (26 folder)
+        ├── IF4020-kriptografi/
+        ├── IF4040-pemodelan-data-lanjut/
+        ├── IF5152-visi-komputer/
+        └── ... (23 folder lainnya)
+
+================================================================================
+STRUKTUR SETIAP MATA KULIAH
+================================================================================
+
+Setiap folder mata kuliah memiliki struktur ini:
+
+[KODE]-[nama-mata-kuliah]/
+│
+├── bahan-kajian/
+│   ├── (Konten pembelajaran/materi)
+│   ├── (Catatan, ringkasan, topik)
+│   ├── (Slide, referensi)
+│   └── (Contoh dan kasus studi)
+│
+└── capaian-pembelajaran/
+    ├── (Learning outcomes - CPMK)
+    ├── (Indikator pencapaian)
+    ├── (Metode penilaian)
+    └── (Contoh tugas/proyek)
+
+================================================================================
+KATEGORI MATA KULIAH
+================================================================================
+
+Semester 1 (8 mata kuliah - 17 SKS)
+  ✓ WI1102, MA1101, FI1101, KI1101, WI1101, WI1103, WI1111, WI1116
+
+Semester 2 (7 mata kuliah - 17 SKS)
+  ✓ WI2002, IF1220, IF1221, IF1230, WI2001, WI2005, IF1210
+
+Semester 3 (7 mata kuliah - 17 SKS)
+  ✓ IF2110, IF2120, IF2123, IF2130, IF2150, WI2003, IF2180
+
+Semester 4 (6 mata kuliah - 16 SKS)
+  ✓ IF2010, IF2211, IF2224, IF2230, IF2240, WI2022
+
+Semester 5 (6 mata kuliah - 18 SKS)
+  ✓ IF3110, IF3130, IF3140, IF3141, IF3151, IF3170
+
+Semester 6 (5 mata kuliah - 13 SKS)
+  ✓ IF3210, IF3250, IF3270, WI2004, IF3211
+
+Semester 7 (3 mata kuliah - 6 SKS)
+  ✓ WI201X, WI2006, IF4091
+
+Semester 8 (2 mata kuliah - 6 SKS)
+  ✓ IF4092, IF4090
+
+Spesialisasi (Pilih 1 dari 6, 12 SKS total):
+
+1. ILMU DAN REKAYASA DATA (5 pilihan)
+   ✓ IF4040, IF4044, IF4041, IF4042, IF4061
+
+2. ILMU KOMPUTER (6 pilihan)
+   ✓ IF4021, IF4042, IF4010, IF4020, IF4062, IF4073
+
+3. INTELIGENSI ARTIFISIAL (7 pilihan)
+   ✓ IF4070, IF4041, IF4042, IF4061, IF4071, IF5152, IF5153
+
+4. KEAMANAN SIBER (5 pilihan)
+   ✓ IF4033, IF4053, IF4020, IF4035, IF5260
+
+5. REKAYASA PERANGKAT LUNAK (7 pilihan)
+   ✓ IF4052, IF4054, IF4031, IF4050, IF4053, IF4060, IF4063
+
+6. REKAYASA SISTEM PERANGKAT LUNAK (7 pilihan)
+   ✓ IF4031, IF4033, IF4010, IF4020, IF4051, IF4054, IF5112
+
+================================================================================
+STATISTIK
+================================================================================
+
+Total Mata Kuliah:               70
+  ├─ Wajib:                      44
+  └─ Elektif:                    26
+
+Total Folder:                    70
+Total Subfolder:                 140
+  ├─ bahan-kajian:               70
+  └─ capaian-pembelajaran:       70
+
+SKS Wajib:                       ~105
+SKS Pilihan:                     12
+SKS Total Minimum:               144
+
+================================================================================
+KONVENSI PENAMAAN
+================================================================================
+
+Format: [KODE]-[nama-dengan-hyphen]
+
+Contoh:
+  ✓ IF1210-algoritma-dan-pemrograman-1
+  ✓ IF2130-sistem-operasi
+  ✓ IF3170-inteligensi-artifisial
+  ✓ IF4020-kriptografi
+  ✓ IF5152-visi-komputer
+
+================================================================================
+CARA MENGGUNAKAN
+================================================================================
+
+1. MENAMBAH BAHAN KAJIAN
+   □ Buka folder: kurikulum-itb/[KODE]-[nama]/bahan-kajian/
+   □ Buat file: 01-topik-1.md, 02-topik-2.md, dst
+   □ Ikuti template markdown yang tersedia
+
+2. MENAMBAH CAPAIAN PEMBELAJARAN (CPMK)
+   □ Buka folder: kurikulum-itb/[KODE]-[nama]/capaian-pembelajaran/
+   □ Buat file: cpmk-1-deskripsi.md, cpmk-2-deskripsi.md, dst
+   □ Hubungkan dengan bahan kajian menggunakan link relatif
+
+3. MEMELIHARA STRUKTUR
+   □ Gunakan markdown untuk semua file teks
+   □ Jaga urutan file dengan numbering (01-, 02-, etc)
+   □ Sertakan metadata di bagian atas file
+   □ Buat link internal menggunakan path relatif
+
+================================================================================
+TEMPLATE FILE
+================================================================================
+
+BAHAN KAJIAN (bahan-kajian/01-topik.md):
+---
+# Bahan Kajian: [Nama Topik]
+
+**Mata Kuliah:** [KODE] - [Nama]
+**Nomor:** X
+
+## Deskripsi
+[Penjelasan singkat]
+
+## Materi Utama
+1. [Poin 1]
+2. [Poin 2]
+
+## Referensi
+- [Ref 1]
+- [Ref 2]
+
+## Latihan
+- [Soal 1]
+- [Soal 2]
+---
+
+CAPAIAN PEMBELAJARAN (capaian-pembelajaran/cpmk-1.md):
+---
+# CPMK X: [Pernyataan Capaian]
+
+**Mata Kuliah:** [KODE] - [Nama]
+
+## Pernyataan
+[Apa yang harus dicapai mahasiswa]
+
+## Indikator Pencapaian
+- [ ] Indikator 1
+- [ ] Indikator 2
+
+## Topik Terkait
+1. [Topik 1]
+2. [Topik 2]
+
+## Metode Penilaian
+- [Metode]: [Bobot]%
+
+## Contoh Luaran
+[Bagaimana menunjukkan pencapaian CPMK]
+---
+
+================================================================================
+INTEGRASI DENGAN KOMPONEN LAIN
+================================================================================
+
+Struktur ini terintegrasi dengan:
+
+├── Kurikulum ITB (root)
+│   ├── kurikulum-itb/          ← MATERI PEMBELAJARAN (struktur ini)
+│   ├── docs/                   ← WEBSITE INTERAKTIF (GitHub Pages)
+│   │   └── data/curriculum.json ← Data terstruktur
+│   ├── mk/                     ← File HTML asli ITB
+│   └── content-and-links/      ← Konten tambahan
+
+================================================================================
+CHECKLIST PERSIAPAN
+================================================================================
+
+Untuk mulai mengisi materi:
+  □ Baca README.md di folder ini
+  □ Pahami struktur folder
+  □ Pilih mata kuliah untuk dimulai
+  □ Buat outline bahan kajian
+  □ Tulis 3-5 topik bahan kajian
+  □ Dokumentasikan semua CPMK
+  □ Buat hubungan antara bahan-kajian dan CPMK
+  □ Review dan validasi links
+  □ Commit ke repository
+
+================================================================================
+TIPS PENGEMBANGAN
+================================================================================
+
+1. MULAI DARI DASAR
+   → Mulai dengan mata kuliah semester 1
+   → Lalu ke semester selanjutnya
+   → Selesaikan wajib sebelum elektif
+
+2. KONSISTENSI ADALAH KUNCI
+   → Gunakan format yang sama untuk semua file
+   → Ikuti konvensi naming
+   → Update metadata secara teratur
+
+3. HUBUNGKAN MATERI
+   → Sertakan prerequisite courses
+   → Link antar topik terkait
+   → Referensi ke mata kuliah lain
+
+4. GUNAKAN CONTOH
+   → Tambahkan contoh kode untuk mata kuliah programming
+   → Soal studi kasus
+   → Project ideas
+
+5. DOKUMENTASI LENGKAP
+   → Jelaskan sumber referensi
+   → Sertakan link eksternal
+   → Catat tanggal update
+
+================================================================================
+STATUS & NEXT STEPS
+================================================================================
+
+✅ SELESAI:
+   ✓ Folder struktur dibuat (70 mata kuliah)
+   ✓ Subfolder bahan-kajian dibuat (70)
+   ✓ Subfolder capaian-pembelajaran dibuat (70)
+   ✓ README dan dokumentasi dibuat
+   ✓ Daftar lengkap mata kuliah dibuat
+
+📋 SIAP UNTUK:
+   ⏳ Pengisian bahan kajian
+   ⏳ Dokumentasi CPMK
+   ⏳ Penambahan referensi
+   ⏳ Integrasi dengan website interaktif
+
+🚀 REKOMENDASI BERIKUTNYA:
+   → Mulai dengan Semester 1 (mata kuliah inti)
+   → Selesaikan bahan kajian terlebih dahulu
+   → Kemudian dokumentasikan CPMK
+   → Integrasikan dengan website (docs/)
+
+================================================================================
+INFORMASI TAMBAHAN
+================================================================================
+
+Lokasi Folder:
+  /home/ahmad/Projects/kurikulum-itb/
+
+Dokumentasi:
+  README.md              - Panduan lengkap
+  DAFTAR_MATA_KULIAH.md - Daftar semua mata kuliah
+  STRUKTUR_FOLDER.txt   - File ini
+
+Git Integration:
+  .gitignore sudah dikonfigurasi
+  Siap untuk di-commit ke repository
+
+Last Updated: August 31, 2024
+Status: ✅ SCAFFOLDING COMPLETE - READY FOR CONTENT
+
+================================================================================

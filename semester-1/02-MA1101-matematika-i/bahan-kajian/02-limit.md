@@ -1,0 +1,27 @@
+# Bahan Kajian: Limit
+
+**Mata Kuliah:** MA1101 - Matematika I
+**Topik ke:** 2
+
+## Deskripsi
+Limit
+
+## Materi Utama
+- [Poin utama 1]
+- [Poin utama 2]
+- [Poin utama 3]
+
+## Sub-topik
+### Sub-topik 1
+[Penjelasan]
+
+### Sub-topik 2
+[Penjelasan]
+
+## Referensi
+- [Referensi 1]
+- [Referensi 2]
+
+## Latihan
+- [Soal/tugas 1]
+- [Soal/tugas 2]

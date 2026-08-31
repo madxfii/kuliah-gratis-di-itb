@@ -1,0 +1,966 @@
+### IF4040 - Pemodelan Data Lanjut
+Kode Mata Kuliah    IF4040 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Pemodelan Data Lanjut    Advanced Data Modeling
+Bahan Kajian (Bahasa Indonesia)
+- CS-IM-3. Data Modeling
+- CS-DM-8. NoSQL System
+- CS-DM-12. Semi-structured and Unstructured Database
+- CS-DM-3. Data Modeling
+Bahan Kajian (English)
+- CS-IM-3. Data Modeling
+- CS-DM-8. NoSQL System
+- CS-DM-12. Semi-structured and Unstructured Database
+- CS-DM-3. Data Modeling
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menjelaskan sebuah use case dengan penggunaan NoSQL dan/atau Semi Structured Database akan lebih dipilih dibandingkan RDBMS.
+- CPMK2. Menjelaskan karakteristik dasar dari sejumlah model data NoSQL dan/atau Semi Structured.
+- CPMK3. Melakukan eksplorasi lebih lanjut untuk menerapkan masing-masing model data non relasional apabila diperlukan
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explain use cases where the use of NoSQL and/or Semi-Structured Databases would be preferred over RDBMS
+- Explain the basic characteristics of several NoSQL and/or Semi-Structured data models.
+- Perform further exploration to apply each non-relational data model if necessary.
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Case study, Problem-based Learning, Studi literatur,
+Kerja kelompok, Project-based Learning (PBL)
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Case Studies, Problem-Based Learning, Literature Review, Group Work, Project-Based Learning (PBL)
+Modalitas Pembelajaran (ID)    Daring/Luring
+Sinkron/Asinkron
+Mandiri/Kelompo
+Modalitas Pembelajaran (EN)    Online/Offline
+Synchronous/Asynchronous
+Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4044 - Teknologi Big Data
+Kode Mata Kuliah    IF4044 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Teknologi Big Data    Big Data Technology
+Bahan Kajian (Bahasa Indonesia)
+- DS-BDS-7. Complexity Theory
+- DS-BDS-6. Parallel Computing Frameworks
+- DS-BDS-4. Techniques for Big Data applications
+- DS-BDS-5. Software support for Big Data applications
+- CS-IS-9. Natural Language Processing
+- DS-BDS-1. Problems of scale
+- DS-BDS-2. Big data computing architectures
+- DS-BDS-3. Distributed data storage
+Bahan Kajian (English)
+- DS-BDS-7. Complexity Theory
+- DS-BDS-6. Parallel Computing Frameworks
+- DS-BDS-4. Techniques for Big Data applications
+- DS-BDS-5. Software support for Big Data applications
+- CS-IS-9. Natural Language Processing
+- DS-BDS-1. Problems of scale
+- DS-BDS-2. Big data computing architectures
+- DS-BDS-3. Distributed data storage
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menjelasakan persoalan, tantangan dan solusi dalam big data analytics
+- CPMK2. Menghasilkan insight dari big data dan menangani isu volume, velocity, variety dan veracity menggunakan teknologi big data
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explain problems, challenges, and solutions in big data analytics
+- Generate insights from big data and handle issues of volume, velocity, variety, and veracity using big data technology
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Case study, Problem-based Learning, Studi literatur,
+Kerja kelompok, Project-based Learning (PBL)
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Case Studies, Problem-Based Learning, Literature Review, Group Work, Project-Based Learning (PBL)
+Modalitas Pembelajaran (ID)    Daring/Luring
+Sinkron/Asinkron
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Offline (Luring); Synchronous; Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4041 - Penambangan Data
+Kode Mata Kuliah    IF4041 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Penambangan Data    Data Mining
+Bahan Kajian (Bahasa Indonesia)
+- DS-DG-1. Data acquisition
+- DS-DG-2. Information extraction
+- DS-DG-3. Working with various types of data
+- DS-DG-4. Data integration
+- DS-DG-5. Data reduction and compression
+- DS-DG-6. Data transformation
+- DS-DG-7. Data cleaning
+- DS-DM-1. Proximity measurement
+- DS-DM-2. Data preparation
+- DS-DM-3. Information extraction
+- DS-DM-4. Cluster analysis
+- DS-DM-5. Classification and regression
+- DS-DM-6. Pattern mining
+- DS-DM-7. Outlier detection
+- DS-DM-8. Time series data
+- DS-DM-9. Mining web data
+- DS-DM-10. Information retrieval
+Bahan Kajian (English)
+- DS-DG-1. Data acquisition
+- DS-DG-2. Information extraction
+- DS-DG-3. Working with various types of data
+- DS-DG-4. Data integration
+- DS-DG-5. Data reduction and compression
+- DS-DG-6. Data transformation
+- DS-DG-7. Data cleaning
+- DS-DM-1. Proximity measurement
+- DS-DM-2. Data preparation
+- DS-DM-3. Information extraction
+- DS-DM-4. Cluster analysis
+- DS-DM-5. Classification and regression
+- DS-DM-6. Pattern mining
+- DS-DM-7. Outlier detection
+- DS-DM-8. Time series data
+- DS-DM-9. Mining web data
+- DS-DM-10. Information retrieval
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Memformulasi solusi dari persoalan data science dengan proses data mining.
+- CPMK2. Menerapkan dasar-dasar exploratory analysis untuk identifikasi data abnormali, termasuk identifikasi data bias.
+- CPMK3. Menentukan beberapa algoritma yang cocok/tepat untuk suatu persoalan, termasuk juga analisa tentang kelebihan dan kekurangan.
+- CPMK4. Menjelaskan model regularization
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Formulate solutions to data science problems using the data mining process
+- Apply exploratory analysis foundations to identify data abnormalities, including bias identification
+- Determine several algorithms suitable for a problem, including analyzing strengths and weaknesses
+- Explain regularization models
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Case study, Problem-based Learning, Studi literatur,
+Kerja kelompok, Project-based Learning (PBL)
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Case Studies, Problem-Based Learning, Literature Review, Group Work, Project-Based Learning (PBL)
+Modalitas Pembelajaran (ID)    Daring//Luring
+Sinkron/Asinkron 
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Offline (Luring); Synchronous; Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4042 - Sistem Temu Balik Informasi
+Kode Mata Kuliah    IF4042 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Sistem Temu Balik Informasi    Information Retrieval System
+Bahan Kajian (Bahasa Indonesia)
+- DS-DM-10. Information retrieval
+Bahan Kajian (English)
+- DS-DM-10. Information retrieval
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menjelaskan teknik-teknik dan metode yang ada pada sistem temu balik informasi.
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explains the techniques and methods used in information retrieval systems.
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Case study, Problem-based Learning, Studi literatur, Kerja kelompok, Project-based Learning (PBL)
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Case studies, Problem-based Learning, Literature studies, Group work, Project-based Learning (PBL)
+Modalitas Pembelajaran (ID)    Daring/Luring 
+Sinkron/Asinkron 
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Online/Offline
+Synchronous/Asynchronous
+Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4061 - Visualisasi Data
+Kode Mata Kuliah    IF4061 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Visualisasi Data    Data Visualization
+Bahan Kajian (Bahasa Indonesia)
+- CS-CN-5. Data, Information, and Knowledge
+- SEP-IDEA. Inclusion, Diversity, Equity and Accessibility
+- CS-SP-5. Privacy and Civil Liberties
+- CS-HCI-User. Understanding the User
+- CS-GIT-6. GIT Visualization
+- CS-GIT-1. GIT Fundamental Concepts
+- CS-GV-6. Visualization
+- CS-GV-2. Basic Rendering
+- CS-GV-1. Fundamental Concepts
+- CS-CN-6. Numerical Analysis
+Bahan Kajian (English)
+- CS-CN-5. Data, Information, and Knowledge
+- SEP-IDEA. Inclusion, Diversity, Equity and Accessibility
+- CS-SP-5. Privacy and Civil Liberties
+- CS-HCI-User. Understanding the User
+- CS-GIT-6. GIT Visualization
+- CS-GIT-1. GIT Fundamental Concepts
+- CS-GV-6. Visualization
+- CS-GV-2. Basic Rendering
+- CS-GV-1. Fundamental Concepts
+- CS-CN-6. Numerical Analysis
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menjelaskan prinsip dan tujuan dari Visualisasi
+- CPMK2. Menjelaskan aspek persepsi visual pada manusia dan wawasan tentang representasi objek visual
+- CPMK3. Menjelaskan karakteristik data dan pemetaan ranah data ke representasi visual
+- CPMK4. Menjelaskan teknik-teknik visualisasi serta mengevaluasi teknik-teknik tersebut sesuai dengan kebutuhan dan batasan
+- CPMK5. Menerapkan pengetahuan dan memanfaatkan kakas yang ada untuk merancang dan membangun visualisasi terhadap data dari suatu kasus
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explain the basic principles and objectives of visualization
+- Explains aspects of visual perception in humans and insights into the representation of visual objects.
+- Describes data characteristics and mapping data domains to visual representations
+- Explain visualization techniques and evaluate these techniques according to needs and limitations.
+- Apply knowledge and utilize existing tools to design and build visualizations of data from a case.
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Case study, Problem-based Learning, Studi literatur,
+Kerja kelompok, Project-based Learning (PBL)
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Case Studies, Problem-Based Learning, Literature Review, Group Work, Project-Based Learning (PBL)
+Modalitas Pembelajaran (ID)    Daring/Bauran/Luring
+Sinkron/Asinkron
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Online/Blended/Offline
+Synchronous/Asynchronous
+Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Praktikum, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, lab work, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4021 - Pemodelan dan Simulasi
+Kode Mata Kuliah    IF4021 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Pemodelan dan Simulasi    Modeling and Simulation
+Bahan Kajian (Bahasa Indonesia)
+- CS-CN-1. Introduction to Modeling and Simulation
+- CS-DS-6. Discrete Probability
+- CS-CN-2. Modeling and Simulation
+Bahan Kajian (English)
+- CS-CN-1. Introduction to Modeling and Simulation
+- CS-DS-6. Discrete Probability
+- CS-CN-2. Modeling and Simulation
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+(kosong)
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Case study, Problem-based Learning, Studi literatur,
+Kerja kelompok, Project-based Learning (PBL)
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Case Studies, Problem-Based Learning, Literature Review, Group Work, Project-Based Learning (PBL)
+Modalitas Pembelajaran (ID)    Daring//Luring
+Sinkron/Asinkron
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Online/Offline
+Synchronous/Asynchronous
+Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Praktikum, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, practicals, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4010 - Pemrograman Unit Pemrosesan Grafis
+Kode Mata Kuliah    IF4010 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Pemrograman Unit Pemrosesan Grafis    Graphical Processing Unit Programming
+Bahan Kajian (Bahasa Indonesia)
+- CS-SF-4. Parallelism
+- CS-PL-12. Concurrency and Parallelism
+- CS-AR-7. Multiprocessing and Alternative Architectures
+- CS-PD-10. Parallel computing frameworks
+- CS-SF-1. Computational Paradigms
+Bahan Kajian (English)
+- CS-SF-4. Parallelism
+- CS-PL-12. Concurrency and Parallelism
+- CS-AR-7. Multiprocessing and Alternative Architectures
+- CS-PD-10. Parallel computing frameworks
+- CS-SF-1. Computational Paradigms
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menjelaskan teknik-teknik optimasi pemrograman pada GPU
+- CPMK2. Memprogram menggunakan GPU dengan efisien
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explains programming optimization techniques on GPUs
+- Programming using GPU efficiently
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Project-based Learning (PBL), Praktikum
+Metode Pembelajaran (EN)    Lectures, Presentations, Project-based Learning (PBL), Lab work
+Modalitas Pembelajaran (ID)    Luring 
+Sinkron/Asinkron 
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Offline
+Synchronous/Asynchronous
+Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Praktikum, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, lab work, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4020 - Kriptografi
+Kode Mata Kuliah    IF4020 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Kriptografi    Cryptography
+Bahan Kajian (Bahasa Indonesia)
+- CS-IAS-6. Cryptography - Asymmetric, Symmetric Cryptography, HMAC, PKI
+Bahan Kajian (English)
+- CS-IAS-6. Cryptography - Asymmetric, Symmetric Cryptography, HMAC, PKI
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menyatakan pemilihan teknik yang sesuai untuk mengamankan pesan, baik pesan yang dikirim maupun pesan tersimpan (arsip).
+- CPMK2. Membuat program aplikasi untuk tujuan keamanan pesan.
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Declares the selection of appropriate techniques for securing messages, both sent messages and stored (archived) messages.
+- Create application programs for message security purposes.
+Metode Pembelajaran (ID)    Kuliah, Kerja kelompok, Research-based Learning (RBL), Project-based Learning
+(PBL)
+Metode Pembelajaran (EN)    Lectures, Group Work, Research-Based Learning (RBL), Project-Based Learning (PBL)
+Modalitas Pembelajaran (ID)    Kuliah: luring
+Tugas: mandiri/kelompok
+Modalitas Pembelajaran (EN)    Lectures: Offline
+Assignments: Independent/group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Praktikum, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, lab work, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4062 - Grafika Komputer
+Kode Mata Kuliah    IF4062 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Grafika Komputer    Computer Graphics
+Bahan Kajian (Bahasa Indonesia)
+- CS-DS-9. Geometry Algebra
+- CS-GV-1. Fundamental Concepts
+- CS-GV-2. Basic Rendering
+- CS-GV-3. Geometric Modeling
+- CS-GV-4. Advanced Rendering
+- CS-GV-5. Computer Animation
+Bahan Kajian (English)
+- CS-DS-9. Geometry Algebra
+- CS-GV-1. Fundamental Concepts
+- CS-GV-2. Basic Rendering
+- CS-GV-3. Geometric Modeling
+- CS-GV-4. Advanced Rendering
+- CS-GV-5. Computer Animation
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Mahasiswa mampu menjelasakan bagaimana gambar grafika dibuat di komputer dengan mmepertimbangkan batasan dan sumber daya komputasi
+- CPMK2. Mahasiswa mampu menerapkan teknik pemodelan dan pemrosesan grafik
+- CPMK3. Mahasiswa mampu membuat aplikasi komputer yang memanfaatkan pemrosesan grafik
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explain how graphic images are created on a computer by considering computing limitations and resources.
+- Apply graphic modeling and processing techniques.
+- Create computer applications that utilize graphics processing
+Metode Pembelajaran (ID)    Kuliah, Kerja kelompok
+Metode Pembelajaran (EN)    Lectures, Group work
+Modalitas Pembelajaran (ID)    Luring
+Asinkron
+Kelompok
+Modalitas Pembelajaran (EN)    Offline
+Asynchronous
+Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4073 - Pemrosesan Citra Digital
+Kode Mata Kuliah    IF4073 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Pemrosesan Citra Digital    Digital Image Processing
+Bahan Kajian (Bahasa Indonesia)
+- CS-IS-12. Perception and Computer Vision
+- CS-IS-13. Image Processing
+Bahan Kajian (English)
+- CS-IS-12. Perception and Computer Vision
+- CS-IS-13. Image Processing
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Memperkenalkan dan membiasakan mahasiswa dengan konsep interpretasi citra termasuk teknik pengenalan citra untuk memungkinkan siswa untuk mengembangkan program vision komputer
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Introduce and familiarize students with the concept of image interpretation including image recognition techniques to enable students to develop computer vision programs.
+Metode Pembelajaran (ID)    Kuliah, Kerja kelompok, Research-based Learning (RBL), Project-based Learning
+(PBL)
+Metode Pembelajaran (EN)    Lectures, Group Work, Research-Based Learning (RBL), Project-Based Learning (PBL)
+Modalitas Pembelajaran (ID)    Kuliah: Luring
+Tugas: Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Lectures: Offline
+Assignments: Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4070 - Representasi Pengetahuan dan Penalaran
+Kode Mata Kuliah    IF4070 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Representasi Pengetahuan dan Penalaran    Knowledge Representation and Reasoning
+Bahan Kajian (Bahasa Indonesia)
+- CS-IS-6. Advanced Representation and Reasoning
+Bahan Kajian (English)
+- CS-IS-6. Advanced Representation and Reasoning
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menyatakan perbandingan antara berbagai jenis representasi
+- CPMK2. Menjelaskan perbedaan antara berbagai metoda penalaran
+- CPMK3. Membuat sebuah SBP sederhana dengan suatu representasi pengetahuan dan proses penalaran yang sesuai dengan representasi tersebut
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Describe comparisons between different types of representation
+- Explain the differences between various reasoning methods
+- Create a simple SBP with a knowledge representation and reasoning process that corresponds to that representation.
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Case study, Problem-based Learning, Studi literatur,
+Kerja kelompok, Project-based Learning (PBL)
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Case Studies, Problem-Based Learning, Literature Review, Group Work, Project-Based Learning (PBL)
+Modalitas Pembelajaran (ID)    Daring//Luring
+Sinkron/Asinkron
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Online/Offline
+Synchronous/Asynchronous
+Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4071 - Pemrosesan Ucapan
+Kode Mata Kuliah    IF4071 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Pemrosesan Ucapan    Speech Processing
+Bahan Kajian (Bahasa Indonesia)
+- CS-IS-12. Perception and Computer Vision
+- CS-IS-14. Speech Processing
+Bahan Kajian (English)
+- CS-IS-12. Perception and Computer Vision
+- CS-IS-14. Speech Processing
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Memahami proses produksi suara dan pendengaran manusia yang menginspirasi berbagai teknik pemrosesan ucapan yang digunakan.
+- CPMK2. Melakukan pemrosesan sinyal digital berupa sampling dan digitisasi.
+- CPMK3. Membangun data yang diperlukan untuk pembangunan sistem pengenal ucapan.
+- CPMK4. Membangun sistem pengenal ucapan menggunakan teknik yang tepat sesuai dengan kebutuhan.
+- CPMK5. Memahami cara kerja dan teknologi sistem pensinetesis ucapan.
+- CPMK6. Memahami cara kerja dan teknologi sistem pengenal pembicara.
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explain the human speech production and hearing processes.
+- Perform digital signal processing on speech signals (sampling and digitization).
+- Building the data required for the development of a speech recognition system.
+- Building a speech recognition system using appropriate techniques according to your needs.
+- Understand how speech synthesizer systems work and the technology behind them.
+- Understand how speaker recognition systems work and their technology.
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Case study, Problem-based Learning, Studi literatur, Kerja kelompok, Project-based Learning (PBL)
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Case studies, Problem-based Learning, Literature studies, Group work, Project-based Learning (PBL)
+Modalitas Pembelajaran (ID)    Daring//Luring 
+Sinkron/Asinkron 
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Online/Offline
+Synchronous/Asynchronous
+Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF5152 - Visi Komputer
+Kode Mata Kuliah    IF5152 / 3 SKS
+Penyelenggara    235 - Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Visi Komputer    Computer Vision
+Bahan Kajian (Bahasa Indonesia)
+- Pengantar Computer Vision
+- Pemrosesan Citra Dasar
+- Segmentasi Citra
+- Pengenalan Objek
+- Pemodelan 3D dan Rekonstruksi
+- Model Generatif dalam Computer Vision
+- Vision-Language Models
+- Proyek Akhir dan Presentasi
+Bahan Kajian (English)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- Memahami Prinsip Dasar Computer Vision
+- Mengaplikasikan Teknik Computer Vision
+- Mengembangkan dan Mengimplementasikan Model Generatif
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+(kosong)
+Metode Pembelajaran (ID)    Pengajaran langsung secara tatap muka dalam perkuliahan dengan menggunakan bantuan visual melalui slide.
+Metode belajar mandiri melalui kegiatan yang dipandu oleh dosen.
+Metode Pembelajaran (EN)    (kosong)
+Modalitas Pembelajaran (ID)    Hybrid
+Visual and audio
+Penggunaan sumber daya online di luar kelas: Siswa akan diberikan kuliah video online secara berkala sebelum kuliah tatap muka
+Modalitas Pembelajaran (EN)    (kosong)
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    Ujian/kuis tertulis
+Tugas: Siswa secara individu akan diminta untuk melakukan serangkaian latihan dan membuat repositori dari solusi mereka. Beberapa latihan yang mengharuskan siswa untuk menerapkan pengetahuan yang diperoleh dari kuliah dan diskusi akan diberikan dan dinilai.
+Proyek: Pada akhir semester, akan ada proyek yang pada dasarnya mengintegrasikan library/fungsi yang telah dibuat selama tugas. Proyek ini berbasis individu dengan kompleksitas sederhana
+Metode Penilaian (EN)    (kosong)
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF5153 - Pemrosesan Bahasa Alami
+Kode Mata Kuliah    IF5153 / 3 SKS
+Penyelenggara    235 - Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Pemrosesan Bahasa Alami    Natural Language Processing
+Bahan Kajian (Bahasa Indonesia)
+- Definisi NLP untuk pemrosesan teks, jenis task NLP, ragam pendekatan teknik NLP
+- Pendekatan berbasis Machine Learning untuk NLP dan beragam pra-pemrosesan
+- Model Representasi Kata
+- Pendekatan berbasis Deep Learning untuk NLP
+- Generative Language Model
+Bahan Kajian (English)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- Menganalisis beragam model representasi kata untuk menyelesaikan task NLP
+- Membangun model NLP untuk beragam task menggunakan pendekatan berbasis machine learning dan deep learning
+- Melakukan eksperimen pra-pemrosesan dan pembangunan model NLP dengan beragam pendekatan
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+(kosong)
+Metode Pembelajaran (ID)    Pembelajaran tatap muka
+Eksplorasi publikasi paper
+Diskusi
+Eksperimen
+Metode Pembelajaran (EN)    (kosong)
+Modalitas Pembelajaran (ID)    Pembelajaran tatap muka
+Pembelajaran daring
+Modalitas Pembelajaran (EN)    (kosong)
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    Ujian
+Tugas besar
+Metode Penilaian (EN)    (kosong)
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4033 - Keamanan Siber
+Kode Mata Kuliah    IF4033 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Keamanan Siber    Cyber Security
+Bahan Kajian (Bahasa Indonesia)
+- CS-IAS-5. Network Security
+- CS-IAS-14. Incident Response – Pre-, During-, and Post Incident
+- CS-IAS-13. Risk Management
+- CS-IAS-12. Security Control – Access Control, Organization Control, Processs
+- CS-IAS-9. Security Policy and Governance
+- CS-IAS-6. Cryptography - Asymmetric, Symmetric Cryptography, HMAC, PKI
+- CS-IAS-4. Threats and Attacks
+- CS-IAS-1. Foundational Concepts in Security
+Bahan Kajian (English)
+- CS-IAS-5. Network Security
+- CS-IAS-14. Incident Response – Pre-, During-, and Post Incident
+- CS-IAS-13. Risk Management
+- CS-IAS-12. Security Control – Access Control, Organization Control, Processs
+- CS-IAS-9. Security Policy and Governance
+- CS-IAS-6. Cryptography - Asymmetric, Symmetric Cryptography, HMAC, PKI
+- CS-IAS-4. Threats and Attacks
+- CS-IAS-1. Foundational Concepts in Security
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menjelaskan komponen fundamental keamanan siber (e.g., ancaman, kerentanan, serangan, risiko)
+- CPMK2. Mengevaluasi tingkat risiko keamanan dan insiden keamanan
+- CPMK3. Menganalisis studi kasus dan menggunakan kontrol keamanan (kebijakan, orgnaisasi, teknikal, sumber daya manausi, dan prosedur) berdasar tingkat risiko
+- CPMK4. Mengembangkan arsitektur keamanan siber dan rencana tanggap insiden
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explain the fundamental components of cyber security (e.g., threats, vulnerabilities, attacks, risks)
+- Evaluate the level of security risk and security incidents
+- Analyze case studies and use security controls (policy, organization, technical, human resources, and procedures) based on the risk level
+- Develop cyber security architecture and incident response plans
+Metode Pembelajaran (ID)    Kuliah, Diskusi, Project-based study, Case study, Problem-based Learning, Studi literatur, Kerja kelompok, Project-based Learning (PBL), Tutorial
+Metode Pembelajaran (EN)    Lectures, Discussions, Project-based studies, Case studies, Problem-based Learning, Literature studies, Group work, Project-based Learning (PBL), Tutorials
+Modalitas Pembelajaran (ID)    Daring//Luring 
+Sinkron/Asinkron 
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Offline (Luring); Synchronous; Independent/Group.
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Tugas
+Metode Penilaian (EN)    Mid-term Exams, Final Exams, Quizzes, Assignments.
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4053 - Keamanan Perangkat Lunak
+Kode Mata Kuliah    IF4053 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Keamanan Perangkat Lunak    Software Security
+Bahan Kajian (Bahasa Indonesia)
+(kosong)
+Bahan Kajian (English)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+(kosong)
+Metode Pembelajaran (ID)    (kosong)
+Metode Pembelajaran (EN)    (kosong)
+Modalitas Pembelajaran (ID)    (kosong)
+Modalitas Pembelajaran (EN)    (kosong)
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    (kosong)
+Metode Penilaian (EN)    (kosong)
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4035 - Blockchain
+Kode Mata Kuliah    IF4035 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Blockchain    Blockchain
+Bahan Kajian (Bahasa Indonesia)
+(kosong)
+Bahan Kajian (English)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+(kosong)
+Metode Pembelajaran (ID)    (kosong)
+Metode Pembelajaran (EN)    (kosong)
+Modalitas Pembelajaran (ID)    (kosong)
+Modalitas Pembelajaran (EN)    (kosong)
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    (kosong)
+Metode Penilaian (EN)    (kosong)
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF5260 - Forensik Digital
+Kode Mata Kuliah    IF5260 / 3 SKS
+Penyelenggara    235 - Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Forensik Digital    Digital Forensics
+Bahan Kajian (Bahasa Indonesia)
+- Introduction to Digital Forensics
+- Computer crime and Legal issues
+- Digital forensic tools
+- Investigatory process
+- Analysis of evidence
+- Presentation of results
+Bahan Kajian (English)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- Menjelaskan pemahaman terkait digital forensic
+- Menerapkan digital forensic tools
+- Memahami permasalahan kejahatan komputer dan aspek legalnya
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explain the understanding related to digital forensics
+- Applying digital forensic tools
+- Understand the problem of computer crime and its legal aspects
+Metode Pembelajaran (ID)    Ceramah, Diskusi
+Metode Pembelajaran (EN)    Lecture, Discussion
+Modalitas Pembelajaran (ID)    Luring, Sinkron
+Modalitas Pembelajaran (EN)    Luring, Sinkron
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    Ujian, Tugas
+Metode Penilaian (EN)    Examinations, Assignment
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4052 - Komputasi Layanan
+Kode Mata Kuliah    IF4052 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Komputasi Layanan    Service Computing
+Bahan Kajian (Bahasa Indonesia)
+(kosong)
+Bahan Kajian (English)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menjelaskan “service”, standard, service life cycle, dan pembangunan PL berorientasi service.
+- CPMK2. Menggunakan tools dan platform untuk pembangunan P/L berorientasi service
+- CPMK3. Melaksanakan pembangunan P/L berorientasi service.
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explains “service”, standards, service life cycle, and service-oriented software development.
+- Using tools and platforms for service-oriented P/L development
+- Implementing service-oriented P/L development.
+Metode Pembelajaran (ID)    (kosong)
+Metode Pembelajaran (EN)    (kosong)
+Modalitas Pembelajaran (ID)    (kosong)
+Modalitas Pembelajaran (EN)    (kosong)
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    (kosong)
+Metode Penilaian (EN)    (kosong)
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4054 - Pengoperasian Sistem Perangkat Lunak
+Kode Mata Kuliah    IF4054 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Pengoperasian Sistem Perangkat Lunak    Software System X-Ops
+Bahan Kajian (Bahasa Indonesia)
+(kosong)
+Bahan Kajian (English)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+(kosong)
+Metode Pembelajaran (ID)    (kosong)
+Metode Pembelajaran (EN)    (kosong)
+Modalitas Pembelajaran (ID)    (kosong)
+Modalitas Pembelajaran (EN)    (kosong)
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    (kosong)
+Metode Penilaian (EN)    (kosong)
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4031 - Arsitektur Aplikasi Terdistribusi
+Kode Mata Kuliah    IF4031 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Arsitektur Aplikasi Terdistribusi    Distributed Application Architecture
+Bahan Kajian (Bahasa Indonesia)
+- CS-SF-9. Reliability through Redundancy
+- CS-PL-12. Concurrency and Parallelism
+- CS-OS-11. Fault Tolerance
+- CS-PD-1. Parallelism Fundamentals
+- CS-PD-2. Parallel Decomposition
+- CS-PD-3. Communication and Coordination
+- CS-PD-4. Parallel Algorithms, Analysis, and Programming
+- CS-PD-5. Parallel Architecture
+- CS-PD-6. Parallel Performance
+- CS-PD-7. Distributed Systems
+- CS-PD-10. Parallel computing frameworks
+- CS-SF-4. Parallelism
+Bahan Kajian (English)
+- CS-SF-9. Reliability through Redundancy
+- CS-PL-12. Concurrency and Parallelism
+- CS-OS-11. Fault Tolerance
+- CS-PD-1. Parallelism Fundamentals
+- CS-PD-2. Parallel Decomposition
+- CS-PD-3. Communication and Coordination
+- CS-PD-4. Parallel Algorithms, Analysis, and Programming
+- CS-PD-5. Parallel Architecture
+- CS-PD-6. Parallel Performance
+- CS-PD-7. Distributed Systems
+- CS-PD-10. Parallel computing frameworks
+- CS-SF-4. Parallelism
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menjelaskan konsep dasar dalam sistem paralel dan terdistribusi
+- CPMK2. Menjelaskan beberapa model pemrograman paralel (pthreads, MPI, OpenMP)
+- CPMK3. Mengembangkan aplikasi paralel yang dapat diskalakan
+- CPMK4. Mengembangkan aplikasi terdistribusi yang dapat diskalakan
+- CPMK5. Menjelaskan arsitektur paralel
+- CPMK6. Menjelaskan mekanisme sinkronisasi
+- CPMK7. Menjelaskan protokol konsistensi dan koherensi
+- CPMK8. Menjelaskan model kegagalan sistem terdistribusi
+- CPMK9. Menganalisis properti fault tolerance dari sistem
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explains basic concepts in parallel and distributed systems
+- Explains several parallel programming models (pthreads, MPI, OpenMP)
+- Developing scalable parallel applications
+- Developing scalable distributed applications
+- Explain parallel architecture
+- Explain the synchronization mechanism
+- Explaining consistency and coherence protocols
+- Explain the failure model of distributed systems
+- Analyzing the fault tolerance properties of the system
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Project-based Learning (PBL), Praktikum
+Metode Pembelajaran (EN)    Lectures, Presentations, Project-based Learning (PBL), Lab work
+Modalitas Pembelajaran (ID)    Luring
+Sinkron/Asinkron
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Offline
+Synchronous/Asynchronous
+Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Praktikum, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, lab work, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4050 - Perkembangan dalam Rekayasa Perangkat Lunak
+Kode Mata Kuliah    IF4050 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Perkembangan dalam Rekayasa Perangkat Lunak    Advances in Software Engineering
+Bahan Kajian (Bahasa Indonesia)
+- SE-SEF-8.  Software Engineering Advances
+- CS-IAS-2. Principles of Secure Design
+- SE-SEF-3. Software Evolution
+- SE-SEF-6. Construction technologies
+- SE-SEF-9. Software Engineering Research
+- SE-REQ-2. Eliciting requirements
+- SE-DES-2. Design strategies
+- SE-DES-3. Architectural design
+- SE-VAV-2. Reviews and static analysis
+- SE-VAV-3. Testing
+- SE-PRO-5. Evolution processes and activities
+- SE-QUA-2. Process assurance
+- SE-QUA-3. Product assurance
+Bahan Kajian (English)
+- SE-SEF-8.  Software Engineering Advances
+- CS-IAS-2. Principles of Secure Design
+- SE-SEF-3. Software Evolution
+- SE-SEF-6. Construction technologies
+- SE-SEF-9. Software Engineering Research
+- SE-REQ-2. Eliciting requirements
+- SE-DES-2. Design strategies
+- SE-DES-3. Architectural design
+- SE-VAV-2. Reviews and static analysis
+- SE-VAV-3. Testing
+- SE-PRO-5. Evolution processes and activities
+- SE-QUA-2. Process assurance
+- SE-QUA-3. Product assurance
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menjelaskan tantangan dalam rekayasa perangkat lunak (RPL)
+- CPMK2. Menjelaskan sejumlah perkembangan (pendekatan/paradigma, teknik, kakas, tekonologi) terkini di RPL
+- CPMK3. Menganalisis dan mereview literatur perkembangan RPL dan menulis dalam sebuah laporan akademis
+- CPMK4. Mengidentifikasi perkembangan RPL yang relevan dalam menyelesaikan permasalah dalam sebuah proyek perangkat lunak
+- CPMK5. Mengaplikasikan sejumlah perkembangan RPL dalam sebuah proyek pengembangan perangkat lunak
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explain challenges in software engineering (SE).
+- Explain several current developments (approaches/paradigms, techniques, tools, technologies) in SE
+- Analyze and review SE development literature and write it in an academic report.
+- Identify relevant SE developments in solving problems within a software project
+- Apply several SE developments in a software development project
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Case study, Problem-based Learning, Studi literatur, Kerja kelompok, Research-based Learning (RBL), Project-based Learning (PBL), Tutorial
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Case studies, Problem-based Learning, Literature studies, Group work, Research-based Learning (RBL), Project-based Learning (PBL), Tutorials
+Modalitas Pembelajaran (ID)    Daring//Luring 
+Sinkron/Asinkron 
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Offline (Luring); Synchronous; Independent/Group.
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Tugas
+Metode Penilaian (EN)    Mid-term Exams, Final Exams, Assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4060 - Rekayasa Interaksi
+Kode Mata Kuliah    IF4060 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Rekayasa Interaksi    Interaction Engineering
+Bahan Kajian (Bahasa Indonesia)
+- CS-GV-1. Fundamental Concepts
+- CS-HCI-9. Design-Oriented HCI
+- CS-HCI-8. Human Factors & Security
+- CS-HCI-5. New Interactive Technologies
+- CS-HCI-4. User-Centered Design & Testing
+- CS-HCI-2. Designing Interaction
+- CS-GV-6. Visualization
+Bahan Kajian (English)
+- CS-GV-1. Fundamental Concepts
+- CS-HCI-9. Design-Oriented HCI
+- CS-HCI-8. Human Factors & Security
+- CS-HCI-5. New Interactive Technologies
+- CS-HCI-4. User-Centered Design & Testing
+- CS-HCI-2. Designing Interaction
+- CS-GV-6. Visualization
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menyatakan permasalahan usability dan user experience dalam kehidupan sehari-hari.
+- CPMK2. Menyatakan prospek dan tantangan yang dibawa oleh teknologi interaktif baru dan potensi pengembangannya ke depan
+- CPMK3. Mengusulkan ide desain dan skenario pemanfaatan teknologi interaksi baru untuk membangun produk yang bermanfaat secara berkelompok.
+- CPMK4. Menyajikan ide desain dan skenario pemanfaatan teknologi interaksi baru dalam bentuk oral dan tulisan
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Describe the problems of usability and user experience in everyday life.
+- Describe the prospects and challenges brought by new interactive technologies and their potential for future development
+- Propose design ideas and scenarios for utilizing new interaction technologies to build useful products as a group.
+- Presenting design ideas and scenarios for utilizing new interaction technologies in oral and written form.
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Debat, Kerja kelompok
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Debates, Group Work
+Modalitas Pembelajaran (ID)    Luring 
+Sinkron 
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Offline
+Synchronous/Asynchronous
+Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4063 - Gim dan Realitas Digital
+Kode Mata Kuliah    IF4063 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Gim dan Realitas Digital    Game and Digital Reality
+Bahan Kajian (Bahasa Indonesia)
+(kosong)
+Bahan Kajian (English)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+(kosong)
+Metode Pembelajaran (ID)    (kosong)
+Metode Pembelajaran (EN)    (kosong)
+Modalitas Pembelajaran (ID)    (kosong)
+Modalitas Pembelajaran (EN)    (kosong)
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    (kosong)
+Metode Penilaian (EN)    (kosong)
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF4051 - Pengembangan Sistem IoT
+Kode Mata Kuliah    IF4051 / 3 SKS
+Penyelenggara    135 - Teknik Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Pengembangan Sistem IoT    IoT System Development
+Bahan Kajian (Bahasa Indonesia)
+- CS-PBD-4. Industrial Platforms
+- CS-PBD-4. Industrial Platforms
+- CS-NC-4. Routing And Forwarding
+- CS-NC-3. Reliable Data Delivery
+Bahan Kajian (English)
+- CS-PBD-4. Industrial Platforms
+- CS-PBD-4. Industrial Platforms
+- CS-NC-4. Routing And Forwarding
+- CS-NC-3. Reliable Data Delivery
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- CPMK1. Menjelaskan perkembangan teknologi IoT pada dunia global.
+- CPMK2. Menjelaskan konsep-konsep dasar teknologi IoT
+- CPMK3. Mengembangkan aplikasi berbasis IoT secara end-to-end
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+- Explaining the development of IoT technology in the global world.
+- Explaining the basic concepts of IoT technology
+- Developing IoT-based applications end-to-end
+Metode Pembelajaran (ID)    Kuliah, Presentasi, Diskusi, Project-based Learning (PBL)
+Metode Pembelajaran (EN)    Lectures, Presentations, Discussions, Project-based Learning (PBL)
+Modalitas Pembelajaran (ID)    Luring 
+Sinkron/Asinkron 
+Mandiri/Kelompok
+Modalitas Pembelajaran (EN)    Offline
+Synchronous/Asynchronous
+Independent/Group
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    UTS, UAS, Kuis, Praktikum, Tugas
+Metode Penilaian (EN)    Mid-term exams, final exams, quizzes, lab work, assignments
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
+
+### IF5112 - Sistem Terdistribusi Lanjut
+Kode Mata Kuliah    IF5112 / 3 SKS
+Penyelenggara    235 - Informatika / STEI
+Kategori    Kuliah
+Nama Mata Kuliah    Sistem Terdistribusi Lanjut    Advanced Distributed Systems
+Bahan Kajian (Bahasa Indonesia)
+- Model sistem terdistribusi
+- Failure detectors
+- reliable delivery
+- atomic & reliable broadcast
+- shared memory model
+- consensus
+- Distributed commitment protocol & atomic transactions
+- Group membership
+- View synchrony
+- Cloud computing & virtualization
+- Distributed ledger & blockchain
+Bahan Kajian (English)
+(kosong)
+Capaian Pembelajaran Mata Kuliah / CPMK (Bahasa Indonesia)
+- Mampu menggunakan konsep sistem terdistribusi untuk membuat model dan merancang sistem
+- Mampu mendefinisikan karakteristik kebutuhan-kebutuhan yang diperlukan dalam menghadapi masalah sistem terdistribusi
+Capaian Pembelajaran Mata Kuliah / CPMK (English)
+(kosong)
+Metode Pembelajaran (ID)    Pembelajaran tatap muka, diskusi
+Metode Pembelajaran (EN)    (kosong)
+Modalitas Pembelajaran (ID)    Pembelajaran tatap muka, diskusi
+Modalitas Pembelajaran (EN)    (kosong)
+Jenis Nilai    ABCDE
+Metode Penilaian (ID)    Ujian/kuis tertulis, Tugas Besar
+Metode Penilaian (EN)    (kosong)
+Catatan Tambahan (ID)    (kosong)
+Catatan Tambahan (EN)    (kosong)
