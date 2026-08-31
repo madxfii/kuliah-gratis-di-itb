@@ -412,8 +412,7 @@ Dengan ketentuan:
 ## 👥 Tim & Kontributor
 
 ### Founder & Maintainer
-- **Ahmad Safii** ([@ahmadsafii](https://github.com/ahmadsafii))
-- ITB Teknik Informatika
+- **Ahmad Safii** ([@madxfii](https://github.com/madxfii))
 
 ### Kontributor
 _Daftar kontributor akan diupdate seiring pertumbuhan project_
@@ -469,7 +468,7 @@ Ingin menjadi kontributor? [Lihat Contributing Guidelines](./CONTRIBUTING.md)
 
 ### Connect
 - 📧 Email: [Ahmad Safii](mailto:ahmadsafii.work@gmail.com)
-- 🐙 GitHub: [@ahmadsafii](https://github.com/ahmadsafii)
+- 🐙 GitHub: [@madxfii](https://github.com/madxfii)
 
 ---
 
